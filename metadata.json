@@ -1,0 +1,7 @@
+{
+  "name": "Glorious Church Web Portal",
+  "description": "A modern, responsive, and spiritually enriching platform for Glorious Church. Features include live streaming, sermon management, online giving, prayer requests, and an AI-powered daily devotional generator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
